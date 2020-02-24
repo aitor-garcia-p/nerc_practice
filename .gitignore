@@ -1,0 +1,5 @@
+.idea/
+*-venv/
+part2_train_custom_nerc/__pycache__/
+part1_use_a_nerc/__pycache__/
+OUTPUTS/
